@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 Feito com ♥ by Rocketseat :wave: [Participe na comunidade!](https://discordapp.com/invite/gCRAFhc)
 
-<em>Edição de Misael Lopes</em>
+<h2> Edição Desenvolvida por<em> Misael Lopes</em></h2>
